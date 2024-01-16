@@ -1,0 +1,29 @@
+{
+  "name": "PowerPellet's Aurora Rom Collection",
+  "author": "PowerPellet43",
+  "nes": [
+    {
+      "name": "R.C. Pro-Am",
+      "icon": "https://cdn.mobygames.com/covers/4180408-rc-pro-am-nes-front-cover.jpg",
+      "link": "https://archive.org/download/nes-roms/R.C.%20Pro-Am%20%28USA%29.nes"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles II - The Arcade Game",
+      "icon": "https://media.vgm.io/releases/26/9262/9262-1637421481.jpg",
+      "link": "https://archive.org/download/nes-roms/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20%28USA%29.nes"
+    },
+    {
+      "name": "Rad Racer",
+      "icon": "https://images.launchbox-app.com/bbf30963-d73f-47d1-875b-23e5310bb060.jpg",
+      "link": "https://archive.org/download/nes-roms/Rad%20Racer%20%28USA%29.nes"
+    },
+     {
+      "name": "R.C Pro-Am II",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/9/9c/RC_Pro_Am_2_cover.jpg",
+      "link": "https://archive.org/download/nes-roms/R.C.%20Pro-Am%20II%20%28USA%29.nes"
+    }
+  ],
+  "gbc": [
+    
+  ]
+}
